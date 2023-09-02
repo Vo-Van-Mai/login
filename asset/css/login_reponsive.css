@@ -1,0 +1,13 @@
+@media screen and (max-width: 700px) {
+    div.content{
+        width: 90%;
+    }
+
+    .content > h2.heading{
+        width: 90% !important;
+    }
+
+    .login{
+        width: 90% !important;
+    }
+}
